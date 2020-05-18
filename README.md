@@ -11,7 +11,7 @@ tan sólo usando JS, programar una batería para desktop que pulsando las teclas
 Con ser un iniciado sin mucha experiencia en JS vale, te lo digo yo! que estoy en ese punto.
 En el curso te enseñan el código y explican todas las funciones y eventos de js.
 
-## comenzamos con el reto 1: Drum kit
+## resultado
 
-puedes encontrar este reto de 30 días aqui:
-https://javascript30.com/
+![Imagen del Drum Kit](./css/images/drum-kit.png)
+https://adharamonzon.github.io/reto-1-js-drum-kit/
